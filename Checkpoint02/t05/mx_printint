@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <unistd.h>
+
+void mx_printint(int n);
+
+void mx_printint(int n)
+{
+    long temp = n;
+
+    if(temp < 0) 
+    {
+        write(1, "-", 1);
+        temp *= -1;
+    }
+
+    int n_next = temp / 10;
+
+    if(n_next) 
+    {
+        mx_printint(n_next);
+    }
+
+    char c = (temp % 10) + '0';
+    write(1, &c, 1);
+}
+
