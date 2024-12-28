@@ -13,8 +13,6 @@
 
 ### **Description**
 
-**Engage**
-
 Hey there! You code the world, and it's time to prove it. During this Marathon, you will overcome a lot of challenges. With each challenge you overcome, you will gain skills that will be useful to you in life in any situation and under any circumstances.
 
 During the Marathon C, you will get a strong knowledge base of computer science. It will be difficult, but it will be worth it. After completing this Marathon, you'll be ready to proceed to other challenges, technologies, and programming languages.
@@ -22,13 +20,6 @@ During the Marathon C, you will get a strong knowledge base of computer science.
 Well then, no time to waste, let's get started.
 And remember, education is not preparation for life. Education is a part of life.
 
-**BIG IDEA**: Find your way to success.
-
-**ESSENTIAL QUESTION**: How to effectively use all the components of the educational system to get as much experience as possible?
-
-**CHALLENGE**: Start learning programming.
-
----
 
 ### **Technologies and Tools Used**
 
@@ -50,32 +41,6 @@ During the Marathon, you will work with a variety of technologies and tools, inc
 
 ---
 
-### **Sprint and Race Tasks**
-
-| Name         | Description                                                              | Grade |
-|--------------|--------------------------------------------------------------------------|-------|
-| **Sprint00** | The basics of UNIX systems (shell, terminal, UNIX utilities, git, etc).  | 72    |
-| **Sprint01** | The basics of writing code in C (loops, variables, functions, etc).      | 71    |
-| **Sprint02** | Standard functions and the basics of mathematics implementation in C.    | 92    |
-| **Sprint03** | Pointers in C and more complex algorithms.                               | 81    |
-| **Sprint04** | Arrays and derivative from them.                                         | 76    |
-| **Sprint05** | Simple programs and command-line arguments.                              | 74    |
-| **Sprint06** | Own library and sorting algorithms.                                      | 100   |
-| **Sprint07** | Memory allocation and memory management.                                 | 60    |
-| **Sprint08** | Header files and structures.                                             | 65    |
-| **Sprint09** | Makefile, macros, standard error, function pointers.                     | 74    |
-| **Sprint10** | File I/O. Standard input and output.                                     | 56    |
-| **Sprint11** | Linked list.                                                             | 62    |
-| **Race00**   | Representation of 3D cube and pyramid on the standard output.            | 97    |
-| **Race01**   | Decode encrypted math expression.                                        | 50    |
-| **Race02**   | Find the shortest path in the maze between the entry and exit points.    | 97    |
-| **Race03**   | Simulate the Matrix screensaver.                                         | 97    |
-| **Checkpoint00** | Challenge yourself without internet, peers, notes, books or any other third-party help. | 79 |
-| **Checkpoint01** | Challenge yourself without internet, peers, notes, books or any other third-party help. | 91 |
-| **Checkpoint02** | Challenge yourself without internet, peers, notes, books or any other third-party help. | 98 |
-
----
-
 ### **Analysis**
 
 During the Marathon, you will learn to:
@@ -94,7 +59,7 @@ If you have any questions or don't understand something, ask other students or j
 </details>
 
 <details>
-  <summary>English</summary>
+  <summary>🇬🇧 English</summary>
 
   ## Engage
 
@@ -194,27 +159,27 @@ If you have any questions or don't understand something, ask other students or j
 
   ## Tasks
 
-  | Name       | Description                                                                 | Grade |
-  |------------|-----------------------------------------------------------------------------|-------|
-  | Sprint00   | The basics of UNIX systems (shell, terminal, UNIX utilities, git, etc).      | 72    |
-  | Sprint01   | The basics of writing code in C (loops, variables, functions, etc).          | 71    |
-  | Sprint02   | Standard functions and the basics of mathematics implementation in C.        | 92    |
-  | Sprint03   | Pointers in C and more complex algorithms.                                 | 81    |
-  | Sprint04   | Arrays and derivative from them.                                           | 76    |
-  | Sprint05   | Simple programs and command-line arguments.                                 | 74    |
-  | Sprint06   | Own library and sorting algorithms.                                        | 100   |
-  | Sprint07   | Memory allocation and memory management.                                    | 60    |
-  | Sprint08   | Header files and structures.                                               | 65    |
-  | Sprint09   | Makefile, macros, standard error, function pointers.                       | 74    |
-  | Sprint10   | File I/O. Standard input and output.                                       | 56    |
-  | Sprint11   | Linked list.                                                               | 62    |
-  | Race00     | Representation of 3d cube and pyramid on the standard output.              | 97    |
-  | Race01     | Decode encrypted math expression.                                          | 50    |
-  | Race02     | Find the shortest path in the maze between the entry and exit points.     | 97    |
-  | Race03     | Simulate the Matrix screensaver.                                          | 97    |
-  | Checkpoint00| Challenge yourself without internet, peers, notes, books or any other third-party help. | 79 |
-  | Checkpoint01| Challenge yourself without internet, peers, notes, books or any other third-party help. | 91 |
-  | Checkpoint02| Challenge yourself without internet, peers, notes, books or any other third-party help. | 98 |
+| Name         | Description                                                                 | Oracle Mark | Total Mark |
+|--------------|-----------------------------------------------------------------------------|:-----------:|:----------:|
+| Sprint00     | The basics of UNIX systems (shell, terminal, UNIX utilities, git, etc).    |     65      |     82     |
+| Sprint01     | The basics of writing code in C (loops, variables, functions, etc).        |     40      |     70     |
+| Sprint02     | Standard functions and the basics of mathematics implementation in C.      |     94      |     97     |
+| Sprint03     | Pointers in C and more complex algorithms.                                 |     80      |     90     |
+| Checkpoint00 | Challenge yourself without internet, peers, notes, books or any other third-party help. |    102      |    102     |
+| Race00       | Representation of 3d cube and pyramid on the standard output.              |    100      |    100     |
+| Sprint04     | Arrays and derivative from them.                                           |     76      |     88     |
+| Sprint05     | Simple programs and command-line arguments.                                |     35      |     68     |
+| Sprint06     | Own library and sorting algorithms.                                        |     69      |     85     |
+| Sprint07     | Memory allocation and memory management.                                   |     58      |     79     |
+| Sprint08     | Header files and structures.                                               |     88      |     94     |
+| Checkpoint01 | Challenge yourself without internet, peers, notes, books or any other third-party help. |    115      |    115     |
+| Sprint09     | Makefile, macros, standard error, function pointers.                       |     52      |     76     |
+| Race01       | Decode encrypted math expression.                                          |      0      |      0     |
+| Sprint10     | File I/O. Standard input and output.                                       |     40      |     70     |
+| Sprint11     | Linked list.                                                               |     65      |     82     |
+| Race02       | Find the shortest path in the maze between the entry and exit points.      |     94      |     97     |
+| Race03       | Simulate the Matrix screensaver.                                           |      0      |      0     |
+| Checkpoint02 | Challenge yourself without internet, peers, notes, books or any other third-party help. |     68      |     68     |
 
   Feel free to use this repository for your own UCODE works (if you are a UCODE student too). I'm working on this Marathon C since January 2024.
 
