@@ -159,14 +159,38 @@ If you have any questions or don't understand something, ask other students or j
   - Use your brain and follow the white rabbit to prove that you are the Chosen one!
 
   ## Technologies Used
-  - <div style="display: flex; align-items: center; gap: 10px;">
-    <span>Programming Languages:</span>
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" style="width: 24px; height: 24px;">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" style="width: 24px; height: 24px;">
+  <div style = "display: flex; align-items: flex-start; gap: 10px;">
+      <span style = "margin-top: 10px;"><b>Programming Languages:</b></span>
+  <div style = "display: flex; gap: 10px;">
+    <img src = "https://skillicons.dev/icons?i=bash" alt = "Bash" style = "width: 40px; height: 40px;">
+    <img src = "https://skillicons.dev/icons?i=c" alt = "C" style = "width: 40px; height: 40px;">
   </div>
+</div>
 
-  - **Tools:** Vim, Emacs, Git, Terminal, iTerm
-  - **Operating System:** UNIX-based systems
+<span style = "margin-top: 10px;"></span>
+
+  <div style = "display: flex; align-items: flex-start; gap: 10px;">
+      <span style = "margin-top: 10px;"><b>Tools:</b></span>
+  <div style = "display: flex; gap: 10px;">
+    <img src = "https://skillicons.dev/icons?i=vim" alt = "Vim" style = "width: 40px; height: 40px;">
+    <img src = "https://skillicons.dev/icons?i=emacs" alt = "Emacs" style = "width: 40px; height: 40px;">
+    <img src = "https://skillicons.dev/icons?i=git" alt = "Git" style = "width: 40px; height: 40px;">
+    <img src = "https://skillicons.dev/icons?i=github" alt = "Github" style = "width: 40px; height: 40px;">
+    <img src = "https://skillicons.dev/icons?i=gitlab" alt = "Gitlab" style = "width: 40px; height: 40px;">
+    <img src = "https://skillicons.dev/icons?i=md" alt = "Markdown" style = "width: 40px; height: 40px;">
+  </div>
+</div>
+
+<span style = "margin-top: 10px;"></span>
+
+  <div style = "display: flex; align-items: flex-start; gap: 10px;">
+      <span style = "margin-top: 10px;"><b>Operating System:</b></span>
+  <div style = "display: flex; gap: 10px;">
+    <img src = "https://skillicons.dev/icons?i=linux" alt = "Linux" style = "width: 40px; height: 40px;">
+    <img src = "https://skillicons.dev/icons?i=apple" alt = "MacOS" style = "width: 40px; height: 40px;">
+    <img src = "https://skillicons.dev/icons?i=windows" alt = "Windows" style = "width: 40px; height: 40px;">
+  </div>
+</div>
 
   ## Tasks
 
@@ -192,6 +216,6 @@ If you have any questions or don't understand something, ask other students or j
   | Checkpoint01| Challenge yourself without internet, peers, notes, books or any other third-party help. | 91 |
   | Checkpoint02| Challenge yourself without internet, peers, notes, books or any other third-party help. | 98 |
 
-  Feel free to use this repository for your own UCODE works (if you are a UCODE student too). I'm working on Marathon C in September-October 2020.
+  Feel free to use this repository for your own UCODE works (if you are a UCODE student too). I'm working on this Marathon C since January 2024.
 
 </details>
