@@ -9,123 +9,79 @@
 </p>
 
 <details>
-  <summary>Click to expand full details</summary>
-
-### **Description**
-
-Hey there! You code the world, and it's time to prove it. During this Marathon, you will overcome a lot of challenges. With each challenge you overcome, you will gain skills that will be useful to you in life in any situation and under any circumstances.
-
-During the Marathon C, you will get a strong knowledge base of computer science. It will be difficult, but it will be worth it. After completing this Marathon, you'll be ready to proceed to other challenges, technologies, and programming languages.
-
-Well then, no time to waste, let's get started.
-And remember, education is not preparation for life. Education is a part of life.
-
-
-### **Technologies and Tools Used**
-
-During the Marathon, you will work with a variety of technologies and tools, including:
-
-- **Operating Systems**: UNIX, Linux, macOS
-- **Programming Languages**: Bash, C
-- **Development Tools**:
-  - Vim, Emacs (text editors)
-  - Terminal (or iTerm for macOS)
-  - Git (version control system)
-- **Build Systems**: Makefile
-- **Debugging Tools**: Standard Error, Macros for debugging
-- **Data Structures**: Arrays, Linked Lists
-- **Algorithms**: Sorting, Pointers-based programming, Pathfinding algorithms
-- **Memory Management**: Dynamic memory allocation, manual memory management techniques
-- **Networking**: Basics of file I/O and communication between processes
-- **Mathematical Foundations**: Implementing standard mathematical functions in C
-
----
-
-### **Analysis**
-
-During the Marathon, you will learn to:
-
-- Analyze tasks deeply to find effective solutions.
-- Work independently and collaboratively.
-- Manage your time effectively to meet deadlines.
-- Submit and evaluate solutions through peer-to-peer review and automatic grading by Oracle.
-
-If you have any questions or don't understand something, ask other students or just Google it. Use your brain and follow the white rabbit to prove that you are the Chosen one!
-
----
-
-**Feel free to fork and use this repository if you are a Ucode student too. Happy coding!**
-
-</details>
-
-<details>
   <summary>🇺🇦 Ukrainian</summary>
 </details>
 
 <details>
   <summary> English</summary>
 
-  ## Engage
+  ### Introduction
+  Hey everyone! 👋
+  I’d like to share my journey with Marathon C. It’s an incredible opportunity to dive deep into the world of coding and challenge yourself. Throughout this program, you’ll encounter various tasks and hurdles, but trust me, the skills and knowledge you gain will be worth every effort. This Marathon isn’t just about learning how to code, it’s about building a solid foundation in computer science and preparing for future challenges, technologies, and programming languages.
 
-  ### DESCRIPTION
-  Hey there!
-  Welcome to the code world, and it's time to prove it. During this Marathon, you will overcome a lot of challenges. With each challenge you overcome, you will gain skills that will be useful to you in life in any situation and under any circumstances.
+As I’ve learned here: education isn’t just preparation for life — it’s a part of life. So, if you’re ready to start, let’s dive in together!
 
-  During the Marathon C, you will get a strong knowledge base of computer science. It will be difficult, but it will be worth it. After completing this Marathon, you'll be ready to proceed to the other challenges, technologies, and programming languages.
+> [!WARNING]
+> If you’re just looking for results, [click here](#tasks).
 
-  Well then, no time to waste, let's get started.
-  And remember, education is not preparation for life. Education is a part of life.
+## What’s Marathon C?
 
-  ### BIG IDEA
-  Find your way to success.
+Marathon C is a journey into the world of **computer science**. It’s not an easy ride – trust me – but every challenge you overcome makes it worthwhile. By the end of this marathon, you’ll have a solid foundation in programming and be ready to explore new technologies and languages.
 
-  ### ESSENTIAL QUESTION
+The mantra here is simple: education is not just preparation for life, it’s an essential part of life.
+
+  ### What’s the Big Idea?
+  The core idea of this Marathon is simple: find your way to success.
+
+  The essential question that drives the experience is:
+  How can you effectively use all the components of an educational system to gain as much experience as possible?
+
+  The challenge itself is straightforward — start learning programming.
+
+  ### The Journey
   How to effectively use all the components of the educational system to get as much experience as possible?
 
-  ### CHALLENGE
-  Start learning programming.
+### The Challenge:
+**Start learning programming!**
 
-  ## Investigate
+---
 
-  ### GUIDING QUESTIONS
-  We invite you to find answers to the following questions. By researching and answering them, you will gain the knowledge necessary to complete the challenge. To find answers, ask the students around you and search the internet. We encourage you to ask as many questions as possible. Note down your findings and discuss them with your peers.
+## Let’s Investigate
 
-  - What is your name? How old are you? What do you do in life?
-  - What do you know about programming?
-    - What is your background in programming?
-    - Why are you interested in learning programming?
-  - What ideas can be implemented using programming?
-  - What skills do you want to get?
-    - What product would you like to create using acquired skills?
-  - What do you need to start learning?
-  - Are you ready to start?
+### Guiding Questions
 
-  ### GUIDING ACTIVITIES
-  Complete the following activities. Don't forget that you have a limited time to overcome the challenge. Use it wisely. Distribute tasks correctly.
+These are some of the questions that got me thinking and helped me start my journey. Maybe they’ll help you too:
 
-  - Get to know and understand the operating system (OS), add the languages you need.
-    - Read the book [ftp://ftp.osaw.ac.at/pc/e-books/linux/learn_unix.pdf](ftp://ftp.osaw.ac.at/pc/e-books/linux/learn_unix.pdf).
-  - Connect to the ucode connect iMac.
-  - Open the Terminal or the iTerm utility. Watch the video tutorial about command-line interfaces.
-  - Type `vim`. The Vim text editor should open. Learn how to exit the editor without closing the Terminal and try opening Vim again. If you don't know how to do this google how to exit Vim or watch the video tutorial. And now type `emacs`. Understand how to do the same actions with this text editor.
-    - You can find out that Vim and Emacs are directly in the Terminal. Just type `man vim` and later repeat with `man emacs`. Press `q` to quit from `man`.
-    - Watch the video tutorial about git that we have prepared for you. You can also find it in LMS->Media->git.mp4
-    - Clone your git repository that is issued on the challenge page in the LMS. Use `git clone` for this.
-    - Proceed to the next tasks.
-  - Communicate with students and share information.
+- Who am I? What’s my background? Why do I want to learn programming?
+- What ideas can I bring to life with programming?
+- What skills do I want to develop, and what projects would I love to create?
+- What do I need to get started? Am I ready to take the leap?
 
-  ### ANALYSIS
-  Analyze your findings. What conclusions have you made after completing guiding questions and activities? In addition to your thoughts and conclusions, here are some more analysis results.
+### Guiding Activities
 
-  - Be attentive to all statements of the story. Examine the given examples carefully. They may contain details that are not mentioned in the task.
-  - Analyze all information you have collected during the preparation stages.
-  - Perform only those tasks that are given in this document.
-  - Submit your files using the layout described in the story. Only useful files allowed, garbage shall not pass!
-  - Execute tasks in the Terminal or iTerm with `zsh`.
-  - Pay attention to what is allowed. Use of forbidden stuff is considered a cheat and your challenge will be failed.
-  - The solution will be checked and graded by students like you. Peer to Peer learning. Also, the challenge will pass automatic evaluation which is called Oracle.
-  - If you have any questions or don't understand something, ask other students or just Google it.
-  - Use your brain and follow the white rabbit to prove that you are the Chosen one!
+Here’s how I tackled the challenge step by step:
+
+1. **Learned about operating systems (OS)** and set up the tools I needed.
+2. **Connected to the ucode connect** and explored the environment.
+3. Opened the **Terminal/iTerm** utility to get comfortable with the **command-line interface**.
+4. Explored the text editors like **Vim** or **Emacs** (it took a while to figure out how to exit Vim 😅).
+5. Watched tutorials and cloned my first Git repository with `git clone`.
+6. Collaborated with peers, sharing knowledge and experiences.
+
+---
+
+## The Analysis
+
+Here’s what I learned:
+
+- Always analyze examples carefully; the details matter.
+- Stick to the tasks outlined in the challenge – no shortcuts or extra fluff.
+- Follow the guidelines for submission – keep it clean and structured.
+- Use tools like the Terminal or iTerm with `zsh`.
+- Peer-to-peer learning is fantastic, and asking for help is a sign of strength.
+- Finally, **think critically and follow the white rabbit.**
+
+---
 
   ## Technologies Used
   <div style = "display: flex; align-items: flex-start; gap: 10px;">
