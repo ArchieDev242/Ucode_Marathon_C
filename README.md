@@ -59,7 +59,11 @@ If you have any questions or don't understand something, ask other students or j
 </details>
 
 <details>
-  <summary>🇬🇧 English</summary>
+  <summary>🇺🇦 Ukrainian</summary>
+</details>
+
+<details>
+  <summary> English</summary>
 
   ## Engage
 
@@ -183,4 +187,8 @@ If you have any questions or don't understand something, ask other students or j
 
   Feel free to use this repository for your own UCODE works (if you are a UCODE student too). I'm working on this Marathon C since January 2024.
 
+</details>
+
+<details>
+  <summary>:: Germany</summary>
 </details>
