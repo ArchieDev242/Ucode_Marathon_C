@@ -1,11 +1,11 @@
-# Marathon C Repository
+# <h1 align = "center">Marathon C Repository</h1>
 
-<p align="center">
-  <a href="https://campus.kpi.kharkov.ua/ua/">
-    <img src="imgs/Cumpus.png" alt="Innovation Campus" width="300" height="300">
+<p align = "center">
+  <a href = "https://campus.kpi.kharkov.ua/ua/">
+    <img src = "imgs/Cumpus.png" alt = "Innovation Campus" width = "300" height = "300">
   </a>
   <br>
-  <h2 align="center"><strong>Innovation Campus | Marathon C | 2023-2024</strong></h2>
+  <h2 align = "center"><strong>Innovation Campus | Marathon C | 2023-2024</strong></h2>
 </p>
 
 <details>
