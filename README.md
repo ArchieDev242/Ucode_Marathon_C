@@ -15,7 +15,7 @@
 
 > ⚠️**УВАГА:**
 >
-> Цей матеріал публікується лише з інформаційною метою. Оцінки в таблиці результатів можуть бути неточними, оскільки деякі завдання, такі як Sprint00, Race03 і Race01, були переглянуті після відправлення або не були виконані і не могли бути повторно виконані, на відміну від спринтів. Також в функціях теж можуть бути наявні помилки.
+> Цей матеріал публікується лише для навчальних цілей. Оцінки в таблиці результатів можуть бути неточними, оскільки деякі завдання, такі як Sprint00, Race03 і Race01, були переглянуті після відправлення або не були виконані і не могли бути повторно виконані, на відміну від спринтів. Також в функціях теж можуть бути наявні помилки.
 >
 > Якщо ви просто шукаєте результати, [натисніть тут](#Завдання).
 
@@ -23,9 +23,9 @@
 
   ### Вступ
   Привіт усім! 👋
-  Ласкаво просимо до моєї подорожі з **Marathon C**, трансформаційною програмою, яка занурює вас у складний світ кодування. Цей досвід - це не просто навчання написанню коду; це сприяння глибокому розумінню комп'ютерних наук, оволодінню методами вирішення проблем та підготовка до майбутніх технологічних викликів. Це подорож, де наполегливість окупається, а кожна подолана перешкода сприяє твоєму зростанню як програміста.
+  Ласкаво просишу до моєї подорожі з **Марафону C**, програмою, яка занурює вас у складний світ кодування. Цей досвід - це не просто навчання написанню коду, це сприяння глибокому розумінню комп'ютерних наук, оволодінню методами вирішення проблем та підготовка до майбутніх технологічних викликів в ІТ. Це подорож, де наполегливість окупається, а кожна подолана перешкода сприяє твоєму зростанню як програміста.
 
-  Як я зрозумів, освіта - це не просто сходинка, це життєво важлива частина самого життя. Якщо ви готові приступити до цього захоплюючого виклику, давайте зануримось у нього разом!
+  Освіта - це не просто сходинка, це життєво важлива частина самого життя. Якщо ви готові приступити до цього захоплюючого виклику, давайте зануримось у нього разом!
 
 ## Що таке Марафон С?
 
@@ -167,9 +167,9 @@
 
   ### Introduction
   Hey everyone! 👋
-  Welcome to my journey with **Marathon C**, a transformative program that immerses you in the intricate world of coding. This experience is not merely about learning to write code; it’s about fostering a deep understanding of computer science, mastering problem-solving, and preparing for future technological challenges. It’s a journey where persistence pays off, and every hurdle overcome adds to your growth as a programmer.
+  Welcome to my journey with **Marathon C**, a transformative program that immerses you in the intricate world of coding. This experience is not just about learning to write code, it's about fostering a deep understanding of computer science, mastering problem-solving techniques, and preparing you for future technological challenges in IT. It's a journey where perseverance pays off and every obstacle you overcome contributes to your growth as a programmer.
 
-  As I’ve learned, education is not just a stepping stone — it’s a vital part of life itself. If you’re eager to embark on this exciting challenge, let’s dive in together!
+  Education is not just a stepping stone, it is a vital part of life itself. If you are ready to take on this exciting challenge, let's dive in together!
 
 ## What’s Marathon C?
 
@@ -312,9 +312,9 @@ Let’s code our way to success!
 
   ### Einleitung
   Hallo zusammen 👋.
-  Willkommen auf meiner Reise mit **Marathon C**, einem transformativen Programm, das Sie in die komplexe Welt des Programmierens eintauchen lässt. Bei dieser Erfahrung geht es um mehr als nur darum, das Schreiben von Code zu lernen; es geht darum, ein tiefes Verständnis der Informatik zu fördern, Problemlösungstechniken zu beherrschen und sich auf zukünftige technologische Herausforderungen vorzubereiten. Es ist eine Reise, bei der sich Beharrlichkeit auszahlt und jedes Hindernis, das man überwindet, dazu beiträgt, dass man als Programmierer wächst.
+  Willkommen auf meiner Reise mit **Marathon C**, einem transformativen Programm, das Sie in die komplexe Welt des Programmierens eintauchen lässt. Bei dieser Erfahrung geht es nicht nur darum, zu lernen, wie man Code schreibt, sondern auch darum, ein tiefes Verständnis für Informatik zu entwickeln, Problemlösungstechniken zu beherrschen und sich auf zukünftige technologische Herausforderungen in der IT vorzubereiten. Es ist eine Reise, bei der sich Beharrlichkeit auszahlt und jedes Hindernis, das Sie überwinden, zu Ihrem Wachstum als Programmierer beiträgt.
 
-  Ich habe gelernt, dass Bildung nicht nur ein Sprungbrett ist, sondern ein wichtiger Teil des Lebens selbst. Wenn Sie bereit sind, sich dieser spannenden Herausforderung zu stellen, lassen Sie uns gemeinsam eintauchen!
+  Die Ausbildung ist nicht nur ein Sprungbrett, sondern ein wichtiger Teil des Lebens selbst. Wenn Sie bereit sind, sich dieser spannenden Herausforderung zu stellen, lassen Sie uns gemeinsam eintauchen!
 
 ## Was ist Marathon C?
 
