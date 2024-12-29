@@ -29,7 +29,7 @@
 
 ## Що таке Марафон С?
 
-Марафон C - це інтенсивне вивчення основ програмування. Хоча шлях може бути складним, винагорода - міцний фундамент в інформатиці та готовність до роботи з передовими технологіями - безцінна. Філософія програми проста і водночас глибока: **«Освіта - це не просто підготовка до життя, це невід'ємна частина життя».
+Марафон C - це інтенсивне вивчення основ програмування. Хоча шлях може бути складним, винагорода - міцний фундамент в інформатиці та готовність до роботи з передовими технологіями - безцінна. Філософія програми проста і водночас глибока: **«Освіта - це не просто підготовка до життя, це невід'ємна частина життя».**
 
   ### У чому полягає велика ідея?
   Основна ідея цього Марафону проста: знайди свій шлях до успіху.
@@ -173,7 +173,7 @@
 
 ## What’s Marathon C?
 
-Marathon C is an intensive exploration of programming fundamentals. While the path may be challenging, the rewards — a strong foundation in computer science and readiness to tackle advanced technologies — are invaluable. The program’s philosophy is simple yet profound: **education is not merely preparation for life, it’s an indispensable part of living.**
+Marathon C is an intensive exploration of programming fundamentals. While the path may be challenging, the rewards — a strong foundation in computer science and readiness to tackle advanced technologies — are invaluable. The program’s philosophy is simple yet profound: **«education is not merely preparation for life, it’s an indispensable part of living.»**
 
   ### What’s the Big Idea?
   The core idea of this Marathon is simple: find your way to success.
@@ -318,7 +318,7 @@ Let’s code our way to success!
 
 ## Was ist Marathon C?
 
-Der C-Marathon ist ein intensives Studium der Programmiergrundlagen. Auch wenn der Weg dorthin herausfordernd sein kann, sind die Belohnungen - eine solide Grundlage in Informatik und die Bereitschaft, mit Spitzentechnologien zu arbeiten - unbezahlbar. Die Philosophie des Programms ist einfach und doch tiefgründig: **"Bildung ist nicht nur eine Vorbereitung auf das Leben, sie ist ein integraler Bestandteil des Lebens.“
+Der C-Marathon ist ein intensives Studium der Programmiergrundlagen. Auch wenn der Weg dorthin herausfordernd sein kann, sind die Belohnungen - eine solide Grundlage in Informatik und die Bereitschaft, mit Spitzentechnologien zu arbeiten - unbezahlbar. Die Philosophie des Programms ist einfach und doch tiefgründig: **«Bildung ist nicht nur eine Vorbereitung auf das Leben, sie ist ein integraler Bestandteil des Lebens.»**
 
   ### Was ist die große Idee?
   Der Grundgedanke dieses Marathons ist einfach: Finde deinen Weg zum Erfolg.
