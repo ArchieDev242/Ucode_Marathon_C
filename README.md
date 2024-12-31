@@ -17,6 +17,8 @@
 >
 > Цей матеріал публікується лише для навчальних цілей. Оцінки в таблиці результатів можуть бути неточними, оскільки деякі завдання, такі як Sprint00, Race03 і Race01, були переглянуті після відправлення або не були виконані і не могли бути повторно виконані, на відміну від спринтів. Також в функціях теж можуть бути наявні помилки.
 >
+> ! Для проходження Race03 вам необхідно мати Mac або встановити Хакінтош на віртуальну машину !
+> 
 > Якщо ви просто шукаєте результати, [натисніть тут](#Завдання).
 
 ---
@@ -160,6 +162,8 @@
 > ⚠️**CAUTION:**
 >
 > This material is published for informational purposes only. The grades in the results table may not be accurate, as some tasks such as Sprint00, Race03, and Race01 were revised after submission or failed and could not be retried, unlike sprints. There can also be errors in the functions.
+>
+> ! To complete Race03 you need to have a Mac or install Hackintosh on a virtual machine !
 >
 > If you’re just looking for results, [click here](#tasks).
 
@@ -306,6 +310,8 @@ Let’s code our way to success!
 >
 > Dieses Material wird nur zu Informationszwecken veröffentlicht. Die Punktzahlen in der Ergebnistabelle können ungenau sein, da einige Aufgaben, wie Sprint00, Race03 und Race01, nach der Einreichung überarbeitet wurden oder nicht abgeschlossen wurden und im Gegensatz zu Sprints nicht wiederholt werden konnten. Es können auch Fehler in den Funktionen enthalten sein.
 >
+> ! Um Race03 abzuschließen, benötigen Sie einen Mac oder Sie müssen Hackintosh auf einer virtuellen Maschine installieren!
+> 
 > Wenn Sie nur nach Ergebnissen suchen, [klicken Sie hier](#Aufgaben).
 
 ---
