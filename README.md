@@ -9,7 +9,7 @@
 </p>
 
 <details>
-  <summary>Ukrainian</summary>
+  <summary>Ukrainian 🇺🇦</summary>
 
 <span style = "margin-top: 5px;"></span>
 
@@ -155,7 +155,7 @@
 </details>
 
 <details>
-  <summary> English</summary>
+  <summary> English 🇬🇧</summary>
 
 <span style = "margin-top: 5px;"></span>
 
@@ -302,7 +302,7 @@ Let’s code our way to success!
 </details>
 
 <details>
-  <summary>Germany</summary>
+  <summary>Germany 🇩🇪</summary>
 
 <span style = "margin-top: 5px;"></span>
   
