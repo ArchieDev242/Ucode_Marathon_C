@@ -8,7 +8,7 @@
   <h2 align = "center"><strong>Innovation Campus | Marathon C | 2023-2024</strong></h2>
 </p>
 
-<details>
+<details open>
   <summary>Ukrainian 🇺🇦</summary>
 
 <span style = "margin-top: 5px;"></span>
